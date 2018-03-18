@@ -53,3 +53,8 @@ Also, this will definatelly not work when there's temporary lanes in constructio
 ### 3. Suggest possible improvements to your pipeline
 
 A possible improvement would be to add color detection to the pipeline. This will eliminate some false positives, such as skid marks and shadows.
+
+### 4. Challenge
+At first sight, it seems like the challenge video has a different resolution than the rest. Simply moving the area of interest to the center of the creen will probably solve the challange too. 
+
+An approach will be to assume that the are of interest is always centered, and that it goes about 50% up on the image.
